@@ -1,0 +1,2 @@
+# RegistrationPage
+JS registration page
